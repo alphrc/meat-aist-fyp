@@ -1,1 +1,3 @@
-# aist-fyp
+# Modular Evolution of Aumenting Topology
+
+MEAT (Modularly Enhanced Augmenting Topology) is an evolutionary algorithm that extends NEAT by incorporating modular structures instead of individual nodes and edges. This approach accelerates neural network evolution, making it more adaptable to complex tasks such as stock trading. By dynamically growing network topology in a structured and scalable manner, MEANT enables more efficient learning and decision-making in evolving environments.
